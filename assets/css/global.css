@@ -6,6 +6,20 @@
 body {
   background-color: #f6f8fc;
 }
+header{
+  background-color: rgb(65, 65, 65);
+}
+
+.header{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.pokebola{
+  width: 110px;
+  height: 70px;
+}
 
 .content {
   width: 100vw;

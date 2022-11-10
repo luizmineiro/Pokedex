@@ -28,7 +28,7 @@ header{
   background-color: #fff;
 }
 
-.loadMoreButton{
+#loadMoreButton{
   cursor: pointer;
 }
 

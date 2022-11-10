@@ -7,6 +7,6 @@
 
 * Link para o projeto esta [AQUI](https://pokedex-five-ruddy.vercel.app/)
 
-![Pokedex](https://i.im.ge/2022/11/11/SoC66L.pokedex.png)
+![Pokedex](https://i.im.ge/2022/11/11/SoCy0a.pokedex.webp)
 
 
